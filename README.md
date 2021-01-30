@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bamboo-informational?style=flat&logo=Bamboo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Crucible-informational?style=flat&logo=Crucible&logoColor=white&color=2bbc8a)
 
 
 
