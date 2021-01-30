@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AYESAS as Software Configuration & DevOps Engineer
+- 🌱 I’m currently learning Container Technologies & Google Cloud
+- 🎓 I'm currently studying Management Information Systems and making researches about "From Agile to DevOps , Holistic Approach for Faster and Efficient Software Product Release Management"
+
+
+
+Get in Touch:
+
+
 
 <!--
 **FatihBildiriciii/FatihBildiriciii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
