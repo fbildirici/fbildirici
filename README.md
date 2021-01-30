@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat&logo=TravisCI&logoColor=white&color=2bbc8a)
+
 
 
 
