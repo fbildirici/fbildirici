@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Tools-Puppet-informational?style=flat&logo=Puppet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ProgrammingLanguage-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Sonarqube-informational?style=flat&logo=Sonarqube&logoColor=white&color=2bbc8a)
 
 
 
