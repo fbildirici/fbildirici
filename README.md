@@ -9,9 +9,6 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a)
@@ -21,15 +18,12 @@
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Subversion-informational?style=flat&logo=Subversion&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=Grafana&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Puppet-informational?style=flat&logo=Puppet&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Sonarqube-informational?style=flat&logo=Sonarqube&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ProgrammingLanguage-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Openstack-informational?style=flat&logo=Openstack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Maven&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=2bbc8a)
+
 
 
 
