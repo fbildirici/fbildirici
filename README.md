@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on HAVELSAN as Software Specialist
 - 🌱 I’m currently learning Container Technologies & Google Cloud
-- 🎓 I'm currently studying Management Information Systems and making researches about "From Agile to DevOps , Holistic Approach for Faster and Efficient Software Product Release Management"
+- 🎓 I'm currently studying MSc in Management Information Systems and making researches about "From Agile to DevOps , Holistic Approach for Faster and Efficient Software Product Release Management"
+- 👨‍🏫 I'm starting MA in Science and Technology Studies and in Ankara University
 
 
 
