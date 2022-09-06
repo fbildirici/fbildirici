@@ -26,6 +26,8 @@
 ![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ProgrammingLanguage-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Teamcity-informational?style=flat&logo=Teamcity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Academic-Scopus-informational?style=flat&logo=Scopus&logoColor=white&color=2bbc8a)
+
 
 
 
