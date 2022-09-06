@@ -24,6 +24,8 @@
 ![](https://img.shields.io/badge/ProgrammingLanguage-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ProgrammingLanguage-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+
 
 
 
