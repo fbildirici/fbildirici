@@ -29,7 +29,6 @@
 ![](https://img.shields.io/badge/AcademicTools-Scopus-informational?style=flat&logo=Scopus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AcademicTools-Zotero-informational?style=flat&logo=Zotero&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AcademicTools-Mendeley-informational?style=flat&logo=Mendeley&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Academic-Qualitative&QuantitativeResearch-informational?style=flat&logo=Qualitative&QuantitativeResearch&logoColor=white&color=2bbc8a)
 
 
 
