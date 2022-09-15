@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/AcademicTools-Scopus-informational?style=flat&logo=Scopus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AcademicTools-Zotero-informational?style=flat&logo=Zotero&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AcademicTools-Mendeley-informational?style=flat&logo=Mendeley&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ScriptingLanguage-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 
 
 
