@@ -5,10 +5,11 @@ Software Specialist
 -------------------
 
 * 🌍  I'm based in Ankara,Turkey
+* 🖥️  See my portfolio at [fbildirici.github.io](http://fbildirici.github.io)
 * ✉️  You can contact me at [fatihbildirici.dev@gmail.com](mailto:fatihbildirici.dev@gmail.com)
 * 🚀  I'm currently working on [HAVELSAN](http://https://www.havelsan.com.tr/)
 * 🧠  I'm learning Container Technologies and Kubernetes
-* 🤝  I'm open to collaborating on Technical Agility & DevOps Projects / Learning Activities
+* 🤝  I'm open to collaborating on Technical Agility & DevOps Projects
 
 <a href="https://www.twitter.com/FatihBildiricii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FatihBildiricii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -38,3 +39,4 @@ src="https://img.shields.io/twitter/follow/FatihBildiricii?logo=twitter&style=fo
 
 <p align="left"> <a href="https://www.github.com/fbildirici" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fatih-bildirici/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@fatihbildirici.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/FatihBildiricii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
