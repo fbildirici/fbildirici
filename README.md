@@ -9,7 +9,7 @@ Software Specialist
 * ✉️  You can contact me at [fatihbildirici.dev@gmail.com](mailto:fatihbildirici.dev@gmail.com)
 * 🚀  I'm currently working on [HAVELSAN](http://https://www.havelsan.com.tr/)
 * 🧠  I'm learning Container Technologies and Kubernetes
-* 🤝  I'm open to collaborating on Technical Agility & DevOps Projects
+* 🤝  I'm open to collaborating on Technical Agility & DevOps Projects / Learning Facilities
 
 <a href="https://www.twitter.com/FatihBildiricii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FatihBildiricii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
