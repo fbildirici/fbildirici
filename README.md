@@ -1,4 +1,4 @@
-Hi 👋 My name is Fatih Bildirici
+Hi 🖖 My name is Fatih Bildirici
 ================================
 
 Software Specialist
