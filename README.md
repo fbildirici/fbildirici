@@ -6,7 +6,7 @@ Software Specialist
 
 * 🌍  I'm based in Ankara,Turkey
 * 🖥️  See my portfolio at [fbildirici.github.io](http://fbildirici.github.io)
-* 👨‍🎓  I am a PhD student in **Artificial Intelligence**, I continue to work and learn in the field of explainable, responsible, trustworthy AI.
+* 👨‍🎓  I am a PhD student in **Artificial Intelligence**, I continue to work and learn in the field of **AI**.
 * ✉️  You can contact me at [fatihbildirici.dev@gmail.com](mailto:fatihbildirici.dev@gmail.com)
 * 🚀  I'm currently working on [HAVELSAN](http://https://www.havelsan.com.tr/)
 * 🧠  I'm learning Container Technologies and Kubernetes
