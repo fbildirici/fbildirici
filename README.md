@@ -1,7 +1,7 @@
 Hi 🖖 My name is Fatih Bildirici
 ================================
 
-![Fatih Bildirici](https://github.com/fbildirici/fbildirici.github.io/blob/main/Group%2097%20(1).png) "Fatih Bildirici")
+![Fatih Bildirici](https://github.com/fbildirici/fbildirici.github.io/blob/main/Group%2097%20(1).png) 
 
 
 
