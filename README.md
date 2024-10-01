@@ -10,9 +10,9 @@ Software Specialist
 * 🖥️  See my portfolio at [fbildirici.github.io](http://fbildirici.github.io)
 * 👨‍🎓    I am a PhD student in **Artificial Intelligence**, I continue to work and learn in the field of **AI**.
 * ✉️  You can contact me at [fatihbildirici.dev@gmail.com](mailto:fatihbildirici.dev@gmail.com)
-* 🚀  I'm currently working on [HAVELSAN](http://https://www.havelsan.com.tr/)
-* 🧠  I'm learning Container Technologies and Kubernetes
-* 🤝  I'm open to collaborating on Technical Agility & DevOps Projects / Learning Facilities
+* 🚀  I'm currently working on [ASELSAN](http://https://www.aselsan.com/)
+* 🧠  I'm learning Artificial Intelligence & Software Development
+* 🤝  I'm open to collaborating on Technical Agility & Artificial Intelligence Projects / Learning Facilities
 
 <a href="https://www.twitter.com/FatihBildiricii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FatihBildiricii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
